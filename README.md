@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAF3OP4iKSE/QQOQWJxKjjXYWWRd1WDcPw/view?utm_content=DAF3OP4iKSE&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+[![MasterHead](https://ibb.co/X4BgTxG)
 https://www.canva.com/design/DAF3OP4iKSE/QQOQWJxKjjXYWWRd1WDcPw/view?utm_content=DAF3OP4iKSE&utm_campaign=designshare&utm_medium=link&utm_source=editor
 <h1 align="center">Hi 👋, I'm Muhammad Hasnat</h1>
 <h3 align="center">A Medical Engineer and Electrical Engineer</h3>
