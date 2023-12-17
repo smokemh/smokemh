@@ -2,7 +2,7 @@
 https://www.canva.com/design/DAF3OP4iKSE/QQOQWJxKjjXYWWRd1WDcPw/view?utm_content=DAF3OP4iKSE&utm_campaign=designshare&utm_medium=link&utm_source=editor
 <h1 align="center">Hi 👋, I'm Muhammad Hasnat</h1>
 <h3 align="center">A Medical Engineer and Electrical Engineer</h3>
-img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."
+img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smokemh&label=Profile%20views&color=0e75b6&style=flat" alt="smokemh" /> </p>
 
 - 🌱 I’m currently learning **Monai**
