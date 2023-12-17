@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/premium-photo/virtual-neural-networks-artificial-intelligence-machine-learning-banner-wallpaper-made-with-generative-ai_155027-3423.jpg)](https://github.com/smokemh)
+[![MasterHead](https://www.aismartz.com/images/deep-learning-banner.jpg)](https://github.com/smokemh)
 
 <h1 align="center">Hi 👋, I'm Muhammad Hasnat</h1>
 <h3 align="center">A Medical Engineer and Electrical Engineer</h3>
