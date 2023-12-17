@@ -1,4 +1,5 @@
-[![MasterHead](https://ibb.co/X4BgTxG)](https://github.com/smokemh)
+[![MasterHead](<a href="https://ibb.co/X4BgTxG"><img src="https://i.ibb.co/7zc5Ft0/Yellow-Monochrome-Photo-Linked-In-Banner.png" alt="Yellow-Monochrome-Photo-Linked-In-Banner" border="0"></a>)](https://github.com/smokemh)
+
 <h1 align="center">Hi 👋, I'm Muhammad Hasnat</h1>
 <h3 align="center">A Medical Engineer and Electrical Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
