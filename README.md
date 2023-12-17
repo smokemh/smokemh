@@ -1,4 +1,4 @@
-[![MasterHead](<a href="https://ibb.co/X4BgTxG"><img src="https://i.ibb.co/7zc5Ft0/Yellow-Monochrome-Photo-Linked-In-Banner.png" alt="Yellow-Monochrome-Photo-Linked-In-Banner" border="0"></a>)](https://github.com/smokemh)
+[![MasterHead](https://img.freepik.com/premium-photo/virtual-neural-networks-artificial-intelligence-machine-learning-banner-wallpaper-made-with-generative-ai_155027-3423.jpg)](https://github.com/smokemh)
 
 <h1 align="center">Hi 👋, I'm Muhammad Hasnat</h1>
 <h3 align="center">A Medical Engineer and Electrical Engineer</h3>
